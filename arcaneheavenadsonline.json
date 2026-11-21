@@ -5,9 +5,9 @@
   "interstitial": true,
   "rewarded": true,
   "admob": {
-    "appId": "ca-app-pub-3940256099942544~3347511713",
-    "bannerId": "ca-app-pub-3940256099942544/9214589741",
-    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+    "appId": "ca-app-pub-9369015949984840~8388621204",
+    "bannerId": "ca-app-pub-9369015949984840/1752341929",
+    "interstitialId": "ca-app-pub-9369015949984840/6001084834",
+    "rewardedId": "ca-app-pub-9369015949984840/5762457865"
   }
 }
